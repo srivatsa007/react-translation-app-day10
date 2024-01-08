@@ -1,4 +1,4 @@
-# React + Vite
+# [Hosted link](https://react-translation-app-day10.vercel.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
